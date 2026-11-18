@@ -2,8 +2,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shard-BRAINS/.github/main/profile/brand-mark-dark-bg.png">
-  <img alt="BRAINS" src="https://raw.githubusercontent.com/shard-BRAINS/.github/main/profile/brand-mark-light-bg.png" width="220">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BRAINS-Certified/.github/main/profile/brand-mark-dark-bg.png">
+  <img alt="BRAINS" src="https://raw.githubusercontent.com/BRAINS-Certified/.github/main/profile/brand-mark-light-bg.png" width="220">
 </picture>
 
 # BRAINS Resume Skill
@@ -14,15 +14,15 @@
 
 [![Version](https://img.shields.io/badge/version-v2.3.0-D99518?style=for-the-badge&labelColor=0A0A0A)](CHANGELOG.md)
 [![Status](https://img.shields.io/badge/status-shipped-D99518?style=for-the-badge&labelColor=0A0A0A)](STATUS.yml)
-[![BRAINS Certified Gold](https://img.shields.io/badge/BRAINS%20Certified-Gold-D99518?style=for-the-badge&labelColor=0A0A0A)](https://github.com/shard-BRAINS/BRAINS-template-repo)
+[![BRAINS Certified Gold](https://img.shields.io/badge/BRAINS%20Certified-Gold-D99518?style=for-the-badge&labelColor=0A0A0A)](https://github.com/BRAINS-Certified/BRAINS-template-repo)
 [![Licence](https://img.shields.io/badge/licence-MIT-0A0A0A?style=for-the-badge&labelColor=D99518)](LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0A0A0A)](https://discord.gg/BEmTXXscBr)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40brainscertified.com-D99518?style=for-the-badge&logo=bluesky&logoColor=FFFFFF&labelColor=0A0A0A)](https://bsky.app/profile/brainscertified.com)
-[![Incubator](https://img.shields.io/badge/BRAINS-Incubator-4DA8FF?style=for-the-badge&labelColor=0A0A0A)](https://github.com/shard-BRAINS)
+[![Incubator](https://img.shields.io/badge/BRAINS-Incubator-4DA8FF?style=for-the-badge&labelColor=0A0A0A)](https://github.com/BRAINS-Certified)
 
 <br />
 
-<a href="https://github.com/shard-BRAINS/BRAINS-template-repo" title="Meets the BRAINS standard floor"><img src="https://raw.githubusercontent.com/shard-BRAINS/BRAINS-template-repo/main/assets/badges/brains-certified-gold.svg" alt="BRAINS Certified — Gold Standard" height="86"></a>
+<a href="https://github.com/BRAINS-Certified/BRAINS-template-repo" title="Meets the BRAINS standard floor"><img src="https://raw.githubusercontent.com/BRAINS-Certified/BRAINS-template-repo/main/assets/badges/brains-certified-gold.svg" alt="BRAINS Certified — Gold Standard" height="86"></a>
 
 <br />
 
@@ -38,7 +38,7 @@ A Claude Code skill for neurodivergent job-seekers. It helps you review, write, 
 
 > **Reliable, affirming, inclusive.**
 
-**An Incubator project from [BRAINS](https://github.com/shard-BRAINS) — built by neurodivergent minds, for neurodivergent people.**
+**An Incubator project from [BRAINS](https://github.com/BRAINS-Certified) — built by neurodivergent minds, for neurodivergent people.**
 
 ---
 
@@ -125,7 +125,7 @@ bash install/install.sh
 
 ```bash
 # 1. Clone
-git clone https://github.com/shard-BRAINS/BRAINS-resume-skill.git
+git clone https://github.com/BRAINS-Certified/BRAINS-resume-skill.git
 cd BRAINS-resume-skill
 
 # 2. Create + activate a virtual environment
@@ -333,7 +333,7 @@ Use the slash commands listed above. Or describe your goal in plain language. Th
 
 We welcome help. Read [`CONTRIBUTING.md`](CONTRIBUTING.md) first. It covers identity-first language, the code of conduct, and how to propose new features or new bias rules.
 
-Want to pitch a project to the BRAINS Incubator? Email **[info@brainscertified.com](mailto:info@brainscertified.com?subject=Incubator%20application%20%E2%80%94%20%5Byour%20name%5D)**. See the [org page](https://github.com/shard-BRAINS) for the form.
+Want to pitch a project to the BRAINS Incubator? Email **[info@brainscertified.com](mailto:info@brainscertified.com?subject=Incubator%20application%20%E2%80%94%20%5Byour%20name%5D)**. See the [org page](https://github.com/BRAINS-Certified) for the form.
 
 ---
 
@@ -351,6 +351,6 @@ MIT — see [LICENSE](LICENSE).
 
 <br />
 
-[![Made by](https://img.shields.io/badge/built%20by-neurodivergent%20minds-0A0A0A?style=for-the-badge&labelColor=D99518)](https://github.com/shard-BRAINS)
+[![Made by](https://img.shields.io/badge/built%20by-neurodivergent%20minds-0A0A0A?style=for-the-badge&labelColor=D99518)](https://github.com/BRAINS-Certified)
 
 </div>
